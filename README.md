@@ -65,7 +65,7 @@ Also actively preparing for **AWS Solutions Architect** certification.
 
 ## 📬 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vtsaryk)  
-📧 **Email**: sokal1@gmail.com  
+📧 **Email**: me@vtsaryk.com  
 
 ---
 
